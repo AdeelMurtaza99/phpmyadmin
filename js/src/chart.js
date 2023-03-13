@@ -1,5 +1,6 @@
 import $ from 'jquery';
 
+
 /**
  * Chart type enumerations
  */
